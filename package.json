@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "contactbook-frontend",
   "version": "0.0.0",
   "private": true,
@@ -14,5 +15,23 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "vite": "^5.1.5"
+=======
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Yen Ngoc",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+>>>>>>> 4ad184544a45434b7cd1f413f0e3cf3789a874de
   }
 }
